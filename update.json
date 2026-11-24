@@ -1,0 +1,20 @@
+{
+  "version": "1.7.0",
+  "notes": "凯桥·隐正 v1.7.0",
+  "page": "https://kaiqiao-yinzheng.pages.dev/",
+  "url": "https://kaiqiao-yinzheng.pages.dev/",
+  "files": {
+    "installer": {
+      "name": "KaiQiaoYinZheng-v1.7.0-win64-Setup.exe",
+      "url": "https://github.com/34xiaoli/kaiqiao-yinzheng-downloads/releases/download/v1.7.0/KaiQiaoYinZheng-v1.7.0-win64-Setup.exe",
+      "sha256": "b6af0f1821e93e8dea85c7c56a3333b73b328aa07b6cd4e9890d91efd5bf6899",
+      "size": 161726870
+    },
+    "portable": {
+      "name": "KaiQiaoYinZheng-v1.7.0-win64-Portable.zip",
+      "url": "https://github.com/34xiaoli/kaiqiao-yinzheng-downloads/releases/download/v1.7.0/KaiQiaoYinZheng-v1.7.0-win64-Portable.zip",
+      "sha256": "e141cde7fdd25ebafb8ad88d011a6d262a20fed1319cfa73d8ead68f22f30cc5",
+      "size": 214092807
+    }
+  }
+}
