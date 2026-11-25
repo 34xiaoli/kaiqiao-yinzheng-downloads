@@ -8,19 +8,19 @@
 
 > 本仓库只发布安装文件，不包含源码。软件需授权码激活（一机一码）。
 
-## 下载（最新 v1.7.1）
+## 下载（最新 v1.7.2）
 
 | 文件 | 说明 | 大小 | SHA-256（前 8 位） |
 |---|---|---|---|
-| [KaiQiaoYinZheng-v1.7.1-win64-Setup.exe](../../releases/download/v1.7.1/KaiQiaoYinZheng-v1.7.1-win64-Setup.exe) | 安装版（推荐，双击安装） | 156 MB | `9444bc3a` |
-| [KaiQiaoYinZheng-v1.7.1-win64-Portable.zip](../../releases/download/v1.7.1/KaiQiaoYinZheng-v1.7.1-win64-Portable.zip) | 便携版（解压即用，适合 U 盘） | 204 MB | `bcdb8107` |
+| [KaiQiaoYinZheng-v1.7.2-win64-Setup.exe](../../releases/download/v1.7.2/KaiQiaoYinZheng-v1.7.2-win64-Setup.exe) | 安装版（推荐，双击安装） | 156 MB | `8823fdbb` |
+| [KaiQiaoYinZheng-v1.7.2-win64-Portable.zip](../../releases/download/v1.7.2/KaiQiaoYinZheng-v1.7.2-win64-Portable.zip) | 便携版（解压即用，适合 U 盘） | 204 MB | `81cef4a1` |
 
 历史版本见 [Releases](../../releases)。
 
 国内网络直连 GitHub 下载慢或失败时，用官网同域代理（推荐）：
 
-- <https://kaiqiao-yinzheng.pages.dev/dl/KaiQiaoYinZheng-v1.7.1-win64-Setup.exe>
-- <https://kaiqiao-yinzheng.pages.dev/dl/KaiQiaoYinZheng-v1.7.1-win64-Portable.zip>
+- <https://kaiqiao-yinzheng.pages.dev/dl/KaiQiaoYinZheng-v1.7.2-win64-Setup.exe>
+- <https://kaiqiao-yinzheng.pages.dev/dl/KaiQiaoYinZheng-v1.7.2-win64-Portable.zip>
 
 完整校验值与版本说明见官网更新清单：<https://kaiqiao-yinzheng.pages.dev/update.json>
 
