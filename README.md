@@ -8,24 +8,27 @@
 
 > 本仓库只发布安装文件，不包含源码。软件需授权码激活（一机一码）。
 
-## 下载（v1.7.0）
+## 下载（最新 v1.7.1）
 
 | 文件 | 说明 | 大小 | SHA-256（前 8 位） |
 |---|---|---|---|
-| [KaiQiaoYinZheng-v1.7.0-win64-Setup.exe](../../releases/download/v1.7.0/KaiQiaoYinZheng-v1.7.0-win64-Setup.exe) | 安装版（推荐，双击安装） | 156 MB | `6a4d389e` |
-| [KaiQiaoYinZheng-v1.7.0-win64-Portable.zip](../../releases/download/v1.7.0/KaiQiaoYinZheng-v1.7.0-win64-Portable.zip) | 便携版（解压即用，适合 U 盘） | 204 MB | `197adff9` |
+| [KaiQiaoYinZheng-v1.7.1-win64-Setup.exe](../../releases/download/v1.7.1/KaiQiaoYinZheng-v1.7.1-win64-Setup.exe) | 安装版（推荐，双击安装） | 156 MB | `9444bc3a` |
+| [KaiQiaoYinZheng-v1.7.1-win64-Portable.zip](../../releases/download/v1.7.1/KaiQiaoYinZheng-v1.7.1-win64-Portable.zip) | 便携版（解压即用，适合 U 盘） | 204 MB | `bcdb8107` |
 
-国内网络直连 GitHub 下载慢或失败时，用官网同域代理：
+历史版本见 [Releases](../../releases)。
 
-- <https://kaiqiao-yinzheng.pages.dev/dl/KaiQiaoYinZheng-v1.7.0-win64-Setup.exe>
-- <https://kaiqiao-yinzheng.pages.dev/dl/KaiQiaoYinZheng-v1.7.0-win64-Portable.zip>
+国内网络直连 GitHub 下载慢或失败时，用官网同域代理（推荐）：
 
-完整校验值（SHA-256）见官网更新清单：<https://kaiqiao-yinzheng.pages.dev/update.json>
+- <https://kaiqiao-yinzheng.pages.dev/dl/KaiQiaoYinZheng-v1.7.1-win64-Setup.exe>
+- <https://kaiqiao-yinzheng.pages.dev/dl/KaiQiaoYinZheng-v1.7.1-win64-Portable.zip>
+
+完整校验值与版本说明见官网更新清单：<https://kaiqiao-yinzheng.pages.dev/update.json>
 
 ## 安装与激活
 
 1. 双击安装包，一路下一步（免管理员权限，装到当前用户目录）。
-2. 首次使用需**授权码激活**（一机一码）：软件右上角 🔐 复制机器码，按官网页面指引微信获取激活码。
+2. 首次使用需**授权码激活**（一机一码，v1.7.1 起机器码为 `KQ-` 前缀）：
+   软件右上角 🔐 复制机器码，按官网页面指引微信获取激活码。
 3. Windows 若弹「已保护你的电脑 / 无法验证发布者」：点「更多信息 → 仍要运行」
    （软件尚未做付费签名的正常提示，不是病毒）。
 4. 装完打不开？先运行安装目录里的 `凯桥隐正自检.exe`，它会告诉你缺什么、怎么办。
@@ -38,8 +41,8 @@ Windows 10 / 11（64 位）。
 
 ## 版本与更新
 
-- 版本历史见官网更新清单（软件内「检查更新」也读取它，仅手动触发）。
-- 覆盖安装会保留审查记录与已激活授权。
+- 软件内「检查更新」读取官网更新清单（仅手动触发，启动与脱敏全程不联网）。
+- 覆盖安装会保留审查记录与已激活授权；旧版 `JW-`/`JWLIC1` 授权码继续有效，无需换码。
 
 ## 第三方开源组件
 
